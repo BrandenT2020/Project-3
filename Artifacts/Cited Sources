@@ -1,0 +1,14 @@
+function getJSONObjectFromURL
+  from https://stackoverflow.com/questions/42387239/android-get-json-response-of-website-call
+  by Zeerak Hameem
+  
+package GraphView
+  from http://www.android-graphview.org/
+  by Jonas Gehring
+  
+ListView example
+  from https://www.youtube.com/watch?v=HrBuJwQGZbc
+  by Appeteria Technologies
+  
+CryptoCompare API
+  from https://www.cryptocompare.com/
